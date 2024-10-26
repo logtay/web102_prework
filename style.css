@@ -5,6 +5,7 @@ body {
     background-color: #758190;
 }
 
+
 #tentacles {
     width: 50px;
 }
@@ -19,8 +20,44 @@ body {
     margin-top: -10px;
 }
 
+nav {
+    background-color: #a8b0bc;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+    padding-left: 2%;
+}
+nav a{
+    text-decoration: none;
+    color: #000;
+    font-size: large;
+    margin: 0 5px; 
+    
+
+}
+nav a:hover{
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+}
+
+#search-bar{
+    margin: 0 15px;
+    padding: 5px;
+}
+#search-button {
+    margin-left: -5px;
+    padding: 5px;
+    width: 120px;
+    font-size: medium;
+}
+
 .stats-container {
     display: flex;
+    align-items: center;
+    cursor: pointer;
+    
+}
+.stats-container:hover{
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +109,28 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+#popup-alert {
+    position: fixed; 
+    left: 50%; 
+    background-color: #efefef; 
+    border-radius: 15px; 
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.2); 
+    padding: 20px;
+    display: none; 
+}
+
+#popup-msg {
+    margin: 0; 
+    font-size: 18px; 
+    text-align: center;
+}
+
+#popup-button {
+    display: block;
+    margin: 10px auto 0; 
+    padding: 10px 15px; 
+    border: none; 
+    background-color:#a8b0bc;
 }
