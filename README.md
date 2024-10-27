@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/logtay/web102_prework/blob/main/WalkthroughGIF.gif' title='Video Walkthrough' width='900' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
@@ -35,7 +35,7 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My main challenge was transitioning from Flask to JavaScript. I have some knowledge in JavaScript but am looking to expand it as previous courses I've taken had minimal interaction with it or the concepts were not delved into that much. I appreciated that the prework explained these concepts more in depth. I have more experience working with Flask, so it was a challenge to translate that knowledge into JavaScript. Overall, I found working on the project enjoyable and it was nice to get an overview of new concepts and approaches to web development. 
 
 ## License
 
