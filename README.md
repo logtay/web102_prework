@@ -35,7 +35,7 @@ GIF created with LiceCap
 
 ## Notes
 
-My main challenge was transitioning from Flask to JavaScript. I have some knowledge in JavaScript but am looking to expand it as previous courses I've taken had minimal interaction with it or the concepts were not delved into that much. I appreciated that the prework explained these concepts more in depth. I have more experience working with Flask, so it was a challenge to translate that knowledge into JavaScript. Overall, I found working on the project enjoyable and it was nice to get an overview of new concepts and approaches to web development. 
+My main challenge was transitioning from Flask to JavaScript. I have some knowledge in JavaScript but am looking to expand it as previous courses I've taken had minimal interaction with it or the concepts were not delved into that much. I appreciated that the prework explained these concepts more in depth. I have more experience working with Flask, so it was interesting/challenging to see how to do some of the same things in a different language and also to see how they are similar. Overall, I found working on the project enjoyable and it was nice to get an overview of new concepts and approaches to web development. 
 
 ## License
 
